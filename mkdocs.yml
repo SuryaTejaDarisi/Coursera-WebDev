@@ -1,3 +1,5 @@
-markdown_extensions:
-  - attr_list
-[Module 2](https://suryatejadarisi.github.io/Coursera-WebDev/module2-solution/){:target="_blank"}
+pip install mkdocs-open-in-new-tab
+
+plugins:
+  - search
+  - open-in-new-tab
